@@ -42,8 +42,8 @@ print(f1 / f2)   # 4/3
 # Whole numbers are displayed with denominator = 1
 print(f3)        # 8/1
 
-
-⚠️ Important: All inputs must be provided as strings, like "4/5" or "8".
+<br>
+#⚠️ Important: All inputs must be provided as strings, like "4/5" or "8".
 
 📖 Future Plans
 
@@ -54,6 +54,7 @@ Add a built-in help() function for the module that prints a detailed user manual
 
 This project is licensed under the MIT License — see the LICENSE
  file for details.
+
 
 
 
